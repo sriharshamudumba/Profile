@@ -1,43 +1,55 @@
-<h1 align="center">Hey 👋, I'm Sri Harsha Mudumba</h1>
-
+<h1 align="center">Hi 👋, I'm Sri Harsha Mudumba</h1>
 <p align="center">
-  <em>Machine Learning Engineer • HPC Enthusiast • Systems Optimizer</em><br>
-  <em>Graduate Researcher @ Iowa State University</em>
+  <em>Machine Learning Engineer • HPC Enthusiast • Systems Optimizer<br>
+  Researcher @ Iowa State University | Ex-Cognizant DBA</em>
 </p>
 
 ---
 
-### 🚀 About Me
+### 🧠 Current Research Projects
 
-- 🎓 MS in Computer Engineering @ Iowa State University  
-- 🔍 Passionate about **efficient AI systems**, **quantized LLMs**, and **low-level hardware optimization**
-- 🧠 Currently working on:
-  - 🧩 **LEXA** – A latency-aware early-exit transformer system combined with RAG for fast and interpretable responses
-  - 🔌 **Heterogeneous-PIM** – Custom architecture for intelligent memory-bound processing using CPU–PIM co-design
+#### 🔹 LEXA: Local Early-Exit RAG Pipeline
+- 🪶 Built a lightweight Retrieval-Augmented Generation system using **TinyLlama + FastAPI + MiniLM**.
+- ⚡ Integrated early exit logic to save **30% GPU compute** and reduce latency by **40%**.
+- 📚 Fully local pipeline: semantic retrieval, cosine-threshold classifier, early-exit-aware answer generation.
 
----
-
-### 🧪 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ONNX-00599C?style=for-the-badge&logo=onnx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IREE-7B42BC?style=for-the-badge&logo=llvm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+#### 🔹 Heterogeneous Processing-in-Memory (PIM)
+- 🔍 Designing an edge-optimized inference system where **exit branches are evaluated in-memory** to avoid off-chip access.
+- 🚀 Optimizing deep models (e.g., CNNs, Transformers) for **on-chip decision layers** using PyTorch + TensorFlow.
 
 ---
 
-### 📬 Let's Connect
+### ⚒️ Tech Stack
 
-- 📧 Email: [srim@iastate.edu](mailto:srim@iastate.edu)
+**Languages**:  
+`Python` • `C++` • `C` • `SQL` • `Shell scripting`
+
+**AI/ML Frameworks**:  
+`PyTorch` • `TensorFlow` • `ONNX` • `HuggingFace Transformers` • `SentenceTransformers`
+
+**HPC & Systems**:  
+`MPI` • `OpenMP` • `Slurm` • `Gem5` • `RPC`
+
+**Databases & Tools**:  
+`Oracle 11g/12c/19c` • `Oracle EBS` • `Git` • `Git LFS` • `Linux` • `FastAPI`
+
+---
+
+### 🧪 Other Notable Projects
+
+- **Benchmarking 1BitLLM with ONNX + IREE** → Achieved 2.3× PyTorch speedup using compiler-level optimizations  
+- **SnaPEA Neural Optimization** → 74% inference reduction via sparse dynamic threshold pruning  
+- **SimNet (CNN-based architecture simulator)** → 55× throughput over Gem5  
+- **Vehicle Number Plate Detection (MPI + OCR)** → 90% runtime reduction using OpenCV + EasyOCR
+
+---
+
+### 📎 Connect With Me
+
 - 💼 [LinkedIn](https://www.linkedin.com/in/sriharshamudumba/)
-- 📂 [Portfolio / Resume Website](https://sriharshamudumba.github.io) *(optional)*
+- 🗂️ [Resume (PDF)](https://github.com/sriharshamudumba/sriharshamudumba/blob/main/Sriharsha_Mudumba_resume.pdf)
+- 🧪 [GitHub Projects](https://github.com/sriharshamudumba)
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Building+Efficient+LLMs...;Optimizing+AI+Inference...;Accelerating+ML+with+IREE...;Welcome+to+my+GitHub!"/>
-</p>
+<!-- Clean layout. Stats not included per request -->
