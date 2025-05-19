@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sri Harsha Mudumba</h1>
 <p align="center">
-  <em>Machine Learning Engineer • HPC Enthusiast • Systems Optimizer<br>
-  Researcher @ Iowa State University | Ex-Cognizant DBA</em>
+  <em>Machine Learning Engineer • HPC Enthusiast • MS Graduate <br>
+  Computer Engineering @ Iowa State University | Ex-Cognizant DBA</em>
 </p>
 
 ---
