@@ -47,8 +47,8 @@
 ### 📎 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sriharshamudumba/)
-- 🗂️ [Resume (PDF)](https://github.com/sriharshamudumba/sriharshamudumba/blob/main/Sriharsha_Mudumba_resume.pdf)
-- 🧪 [GitHub Projects](https://github.com/sriharshamudumba)
+- 🗂️ [Resume (PDF)]([https://github.com/sriharshamudumba/sriharshamudumba/blob/main/Sriharsha_Mudumba_resume.pdf](https://drive.google.com/file/d/1JsIDD24dhcFV-t8GGLVOxSkxgRSWovDw/view?usp=drive_link))
+  
 
 ---
 
